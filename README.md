@@ -31,7 +31,7 @@ foundry-agent/
 4. **Context Manager**: Automatic resource cleanup
 5. **Async/Await**: Non-blocking operations for scalability
 
-<img width="758" height="1544" alt="image" src="https://github.com/user-attachments/assets/0ba0f144-e644-49ab-af39-20d54a2340ae" />
+<img width="400" height="814" alt="image" src="https://github.com/user-attachments/assets/0ba0f144-e644-49ab-af39-20d54a2340ae" />
 
 ---
 
